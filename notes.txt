@@ -1,0 +1,262 @@
+
+cp notes.txt
+
+
+# rename
+mv notebook/ note_book
+
+# move location of file keeping same name
+mv ../
+
+# renaming files
+mv notes.txt fish.txt
+
+# search for strings
+grep brew notes.txt
+
+# appends the history to the file history
+history >> notes.txt
+
+# shortcut ls-lh
+ll
+
+# remove file
+rm notes.txt
+
+# create file
+touch notes.txt
+
+# change directory
+cd notebook/
+
+# make directory
+mkdir notebook
+
+cd Projects/
+
+# move screen in terminal but keep history
+clear
+
+cd
+ls -D
+ls
+cd Downloads/
+
+# manual
+man ls
+
+
+man
+
+# change directory one up
+cd ..
+
+# present working directory
+pwd
+
+cd ~
+cd /
+cd /user
+cd Users/
+ls -l
+tree -L 2
+tree -L 1
+brew install tree
+ls -a
+q
+man la
+ls -o
+ls -m
+ls -@
+ls -C
+ls -c
+ls -x
+ls -lt
+ls -t
+ls-l
+open /users/Sprague
+/Users/Sprague/
+open .
+echo ~
+which whoami
+whoami
+surge
+git commit -m 'Add a CNAME'
+git add CNAME
+touch CNAME
+git commit -m 'Add a tiny web page'
+git add index.html
+open index.html
+atom .
+touch index.html
+git init
+cd austinsprague.surge.sh/
+mkdir austinsprague.surge.sh
+mkdir ~/Projects
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew install node
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.name 'austinsprague'
+git config --global user.email 'sprague.ak@gmail.com'
+git config --global user.name 'austin-sprague'
+git --version
+which git
+brew install git
+which echo
+echo $PATH
+shout $PATH
+shout$PATH
+echo $EDITOR
+atom ~/.config/fish/config.fish
+brew info fish
+brew in
+fish_update_completions
+rm -rf .git
+cd
+cd Best-Beer/
+cd CF-work/
+ls -al
+cd Desktop/
+cd D
+curl -fsSL https://git.io/vgqFU | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
+ls -G
+ls -p
+subl.
+git
+subl .
+touch app.js
+cd prechallenge
+mkdir prechallenge
+cd galvanize
+mkdir galvanize
+cd ../
+cd SMHC
+touch style.css
+ls css
+mkdir css
+touch app.js index.html
+cd ...
+cd .../
+mkdir img
+git branch
+git checkout master
+git checkout -b "extra-stuff"
+git push origin master
+git commit -m"fixed footer"
+git add .
+git status
+git pull origin master
+cd final-project
+cd CF-work
+git push origin issue63-nav
+git commit -m"changes,added bio"
+git commit m"changes, added bio"
+git commit -m"added bio"
+git commit -m"updated nav, made all font bigger"
+rm final_logo.png
+cd img
+git checkout -b"issue63-nav"
+git checkout issue63-navigation
+git checkout issue53-css
+git push origin issue53-css
+git push origin issu53-css
+git commit -m"updated form syling"
+CF-work
+rm img/final_logo-grey.png img/final_logo-red.png img/orange.png
+git commit -m "updated aboutus.css to match home"
+git commit -m"updated about us"
+git commit-m"updated about us"
+git commit -m"styling to about us"
+git checkout -b "issue53-css"
+git checkout issue37MainRefine
+git commit -m"changes overall"
+rm audio/gameover.mp3 audio/gather.wav audio/title.mp3
+git checkout audio/
+git stash
+git checkout
+git reset HEAD
+rm .DS_Store
+git checkout
+rm .DS_Store js/.DS_Store
+git checkout origin issue37MainRefine
+git push origin issue37MainRefine
+git commit -m"adjusted some more"
+git issue37MainRefine
+git branch master
+git commit -m"nav select not overlapping"
+git commit -m"updated nav bar"
+rm reset.css
+touch reset.css
+cd css
+git commit -m"added stylin"
+git pull origin issue37MainRefine
+git checkout -b issue37MainRefine
+git push origin issue31-yAxis
+git commit -m"removed bug"
+cd game
+game
+cd temp
+temp
+git checkout issue31-yAxis
+git checkout js/app.js
+git checkout -b "issue31-yAxis"
+git push origin css-syling
+git commit -m"nothing"
+touch form.css
+rm form.css
+git branch -D css-styling
+git branch -d css-styling
+rm skeleton.css
+rm style.css
+git checkout css-styling
+git push origin css-styling
+git rm -d css-styling
+rm style2.css
+rm form2.css
+git commit -m"some style testing"
+git branch -D "css-styling"
+git commit -m"some styling test"
+git branch -d "css-styling"
+git checkout -b 10_title_screen origin/10_title_screen
+git fetch origin
+git commit -m"testing styling"
+rm bootstrap-rating.js
+cd js
+git touch reset.css
+git subl .
+git checkout -b "css-styling"
+git checkout -b "CSS Styling"
+git push origin issue17-boundariesForRandObj
+git commit -m"add comment"
+git checkout issue1
+git push origin issue17-boundariesforRandObj
+git commit -m"counter on canvas"
+git commit -m"fixed rand obj out of bounds"
+git push origin issue3-random-images
+git checkout -b "issue17-boundariesForRandObj"
+git checkout -b "issue17-boundaries for randObj"
+git commit -m"different images"
+rm img/.DS_Store
+git commit -m"added some images"
+rm coffee.png
+rm coffeeBean.jpg mount-rainier.png raindrop.png skyline.png mount-rainier.png Sasquatch_Baby.png
+git commit -m"working random image"
+git add -m"working random image"
+rm mountain.png
+git commit -m"added render scoreReady to app.js"
+rm .DS_Store img/.DS_Store
+rmdir Testing
+rm Testing
+rm raindrop.png cloud2.png cloud.png cloud.jpg skyline.png
