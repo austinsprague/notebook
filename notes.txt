@@ -1,7 +1,7 @@
-
-
-cp notes.txt
-
+~/P/notebook master ✔ git push -u origin master
+Branch master set up to track remote branch master from origin.
+Everything up-to-date
+~/P/notebook master ✔ git push
 
 # rename
 mv notebook/ note_book
